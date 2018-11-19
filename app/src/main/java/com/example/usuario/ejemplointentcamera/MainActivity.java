@@ -41,6 +41,7 @@ Button captura2;
 VideoView video;
 String rutaFotoActual;
 MediaController control;
+//rutas del video
 Intent haceFoto;
 String ruta;
     @Override
